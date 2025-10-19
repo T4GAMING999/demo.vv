@@ -13,8 +13,6 @@ const messages = [
   "Em là ngôi sao sáng nhất",
   "Anh tỏa sáng là vì em",
   "Em thật tỏa sáng trên bầu trời của anh"
-  "anh rất xin lũi e nhìu vì trc giờ toàn làm e buồn"
-  "anh yêu em nhiều lắm"
 ];
 const fallingTexts = [];
 
